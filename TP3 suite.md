@@ -292,7 +292,7 @@ Volatility Foundation Volatility Framework 2.6.1
 Outputting to: vads.dot
 ```
 
-![image](https://github.com/bouchnita/ENSAO_Forensics/blob/main/forensicsEnsao/Pasted%20image%2020230420225753.png)
+![image](https://github.com/bouchnita/ENSAO_Forensics/blob/main/forensicsEnsao/Pasted%20image%2020230421224836.png)
 
 
 5. Donc, maintenant, nous avons juste besoin d&#39;obtenir le contenu réel de ces segments
