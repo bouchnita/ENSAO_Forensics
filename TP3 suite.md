@@ -12,7 +12,7 @@ Wrote /home/ubuntu/Downloads/session_0.WinSta0.Disconnect.png
 Wrote /home/ubuntu/Downloads/session_0.WinSta0.Winlogon.png
 
 ```
-![Image](./forensicsEnsao/Pasted image 20230420225753.png)
+![Image](https://github.com/bouchnita/ENSAO_Forensics/blob/main/forensicsEnsao/Pasted%20image%2020230420225753.png)
 
 ```shell
 python2 vol.py  -f $vfile consoles
